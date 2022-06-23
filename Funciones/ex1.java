@@ -1,4 +1,4 @@
-public class firstExercise {
+public class ex1 {
   public static void main(String[] args) {
     System.out.println(sumNums(2, 3, 5));
 
